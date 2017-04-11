@@ -1,3 +1,3 @@
 # PowerShell IP Tools
 
-Diverse PowerShell Skripte als Ersatz für ping, tracert, nslookup etc.
+Some useful IP related PowerShell scripts. As a replacement for ping, tracert, nslookup etc.
